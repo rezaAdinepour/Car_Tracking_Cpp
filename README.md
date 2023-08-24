@@ -12,3 +12,4 @@ In first you need to configure the OpenCV as a following:
 4. in <code>vc++ directories</code> tab add this directories:
     1. include directory path: <code>[Your drive]:\Lib\OpenCV\4.7.0\opencv\build\include</code>
     2. library directory path: <code>[Your drive]:Lib\OpenCV\4.7.0\opencv\build\x64\vc16\lib</code>
+5. Compile project and run it!    
